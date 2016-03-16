@@ -63,4 +63,4 @@ um chat em tempo real. Para discussões a longo prazo (assíncronas) é utilizad
 
 ## Triagem de tarefas
 
-Você pode acompanhar o projeto utilizando [Codetriage](http://www.codetriage.com/rubycastsbrasil/rubycastsbrasil). Ao efetuar o cadastro na plataforma, todos os dias você poderá receber um newsletter com algumas tarefas que precisam de ajuda para serem solucionadas.
+Você pode acompanhar o projeto utilizando [Codetriage](http://www.codetriage.com/castsbrasil/castsbrasil). Ao efetuar o cadastro na plataforma, todos os dias você poderá receber um newsletter com algumas tarefas que precisam de ajuda para serem solucionadas.
