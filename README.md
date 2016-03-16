@@ -31,13 +31,13 @@ O bower é utilizado em conjunto com o [bower-installer](https://github.com/blit
 para ter um controle maior dos arquivos que entram no controle de versão.
 Ambos são monitorados pelo [gemnasium](https://gemnasium.com).
 
-## Controle da Qualidade [![Coverage Status](https://img.shields.io/coveralls/RubyCastsBrasil/RubyCastsBrasil.svg)](https://coveralls.io/r/RubyCastsBrasil/RubyCastsBrasil)
+## Controle da Qualidade [![Coverage Status](https://coveralls.io/repos/github/castsbrasil/castsbrasil/badge.svg?branch=master)](https://coveralls.io/github/castsbrasil/castsbrasil?branch=master)
 
 Para manter um alto controle de qualidade do código é utilizado o [simplecov](https://github.com/colszowka/simplecov)
 para mensurar a quantidade de código coberto por testes.
 Esse controle é monitorado pelo [coveralls](coveralls.io).
 
-## Garantia da Qualidade [![Code Climate](https://codeclimate.com/github/RubyCastsBrasil/RubyCastsBrasil.png)](https://codeclimate.com/github/RubyCastsBrasil/RubyCastsBrasil)
+## Garantia da Qualidade [![Code Climate](https://codeclimate.com/github/castsbrasil/castsbrasil/badges/gpa.svg)](https://codeclimate.com/github/castsbrasil/castsbrasil)
 
 Para garantir a qualidade, é utilizado um guia de estilos, boas práticas e má praticas.
 Essa garantia é monitorada pelo [Code Climate](https://codeclimate.com) e pelo [houndci](http://houndci.com).
