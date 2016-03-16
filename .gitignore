@@ -17,14 +17,13 @@ config/database.yml
 bower_components/
 .coveralls.yml
 .env
-Gemfile.lock
 
 ## Environment normalisation:
 /.bundle
 /vendor/bundle
 
 # these should all be checked in to normalise the environment:
-# .ruby-version, .ruby-gemset
+# Gemfile.lock .ruby-version, .ruby-gemset
 
 # unless supporting rvm < 1.11.0 or doing something fancy, ignore this:
 .rvmrc
